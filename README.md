@@ -1,1 +1,1 @@
-# gmail_cucumber
+# Test automation project with Cucumber
