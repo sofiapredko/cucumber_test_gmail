@@ -1,6 +1,6 @@
 @LoginProfile
 Feature: delete emails and undo it
-  Background: User navigates to Company home page
+  Background: User navigates to Gmail Sign In page
     Given I go to URL "https://mail.google.com/"
 
   Scenario Outline: User log in, check few emails, delete them and undo this action
